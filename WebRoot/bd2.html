@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Happy Birthday!</title>
+
+    <link rel="stylesheet" href="css/style2.css" media="screen" type="text/css" />
+
+</head>
+
+<body>
+<div id="all">
+<audio id="ap" autoplay="autopaly">
+		<source src="renxi.mp3" type="audio/mp3" />
+</audio>
+<div class="cake">
+  <div class="velas">
+    <div class="fuego"></div>
+    <div class="fuego"></div>
+    <div class="fuego"></div>
+    <div class="fuego"></div>
+    <div class="fuego"></div>
+  </div>
+  <div class="cobertura"></div>
+  <div class="bizcocho"></div>
+  <h1>&gt;>happy birthday!</h1>
+  <p>Poly</p>
+</div></div>
+</body>
+<script src='js/jquery.js'></script>
+
+<script>
+	var canvas = document.getElementById("all");
+	function touchStart(event) {
+		document.getElementById("ap").play();
+	}
+// add touch start listener
+canvas.addEventListener("touchstart", touchStart, false);
+</script>
+</html>
