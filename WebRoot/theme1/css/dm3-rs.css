@@ -1,0 +1,34 @@
+.dm3-rs {
+  height: 32px;
+  overflow: hidden;
+  position: relative;
+  margin: 0 0 20px 0;
+}
+
+.dm3-rs-loader {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: #fff url(../images/ajax-loader.gif) no-repeat center center;
+}
+
+.dm3-rs-slides {
+  width: 100%;
+  overflow: hidden;
+}
+
+.dm3-rs ul {
+  width: 30000px;
+}
+
+.dm3-rs ul li {
+  width: 596px;
+  float: left;
+}
+
+.dm3-rs ul li img {
+  max-width: 100%;
+  height: auto;
+}
