@@ -11,7 +11,7 @@
   position: absolute;
   left: 0;
   top: 0;
-  background: #fff url(../images/ajax-loader.gif) no-repeat center center;
+  background: #fff url(../photo/images/ajax-loader.gif) no-repeat center center;
 }
 
 .dm3-rs-slides {

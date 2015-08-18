@@ -41,7 +41,7 @@ body {
   font-size: 14px;
   line-height: 22px;
   color: #777;
-  background: url(../images/bg.jpg) repeat;
+  background: url(../photo/images/bg.jpg) repeat;
 }
 
 
@@ -267,7 +267,7 @@ strong {
   width: 43px;
   height: 31px;
   margin: -10px 0 0 0;
-  background: url(../images/twitter.png) no-repeat 0 0;
+  background: url(../photo/images/twitter.png) no-repeat 0 0;
 }
 
 .tweets-list .heart-left {
@@ -281,7 +281,7 @@ strong {
   display: block;
   width: 30px;
   height: 30px;
-  background: url(../images/heart.png) no-repeat 0 0;
+  background: url(../photo/images/heart.png) no-repeat 0 0;
 }
 
 .h-nav {
@@ -328,7 +328,7 @@ strong {
 }
 
 .fact + .fact {
-  background: url(../images/nav-horizontal-line.png) repeat-x 0 0;
+  background: url(../photo/images/nav-horizontal-line.png) repeat-x 0 0;
   padding: 21px 0 0 0;
 }
 
@@ -344,7 +344,7 @@ strong {
   font-size: 56px;
   line-height: 60px;
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
-  background: #fff url(../images/nav-horizontal-line.png) repeat-x 0 3px;
+  background: #fff url(../photo/images/nav-horizontal-line.png) repeat-x 0 3px;
 }
 
 
@@ -355,7 +355,7 @@ strong {
   margin: 0 0 20px 0;
   padding: 6px 12px 0 12px;
   position: relative;
-  background: url(../images/nav-bg.png) repeat;
+  background: url(../photo/images/nav-bg.png) repeat;
 }
 
 
@@ -373,7 +373,7 @@ strong {
 }
 
 .icon-16.icon-facebook {
-  background-image: url(../images/iconsweets/facebook-16.png);
+  background-image: url(../photo/images/iconsweets/facebook-16.png);
 }
 
 .icon-16.icon-facebook + span {
@@ -381,7 +381,7 @@ strong {
 }
 
 .icon-16.icon-twitter {
-  background-image: url(../images/iconsweets/twitter-16.png);
+  background-image: url(../photo/images/iconsweets/twitter-16.png);
 }
 
 .icon-16.icon-twitter + span {
@@ -389,7 +389,7 @@ strong {
 }
 
 .icon-16.icon-google-plus {
-  background-image: url(../images/iconsweets/google-plus-16.png);
+  background-image: url(../photo/images/iconsweets/google-plus-16.png);
 }
 
 .icon-16.icon-google-plus + span {
@@ -397,7 +397,7 @@ strong {
 }
 
 .icon-16.icon-skype {
-  background-image: url(../images/iconsweets/skype-16.png);
+  background-image: url(../photo/images/iconsweets/skype-16.png);
 }
 
 .icon-16.icon-skype + span {
@@ -405,7 +405,7 @@ strong {
 }
 
 .icon-16.icon-linkedin {
-  background-image: url(../images/iconsweets/linkedin-16.png);
+  background-image: url(../photo/images/iconsweets/linkedin-16.png);
 }
 
 .icon-16.icon-linkedin + span {
@@ -413,7 +413,7 @@ strong {
 }
 
 .icon-16.icon-vimeo {
-  background-image: url(../images/iconsweets/vimeo-16.png);
+  background-image: url(../photo/images/iconsweets/vimeo-16.png);
 }
 
 .icon-16.icon-vimeo + span {
@@ -421,7 +421,7 @@ strong {
 }
 
 .icon-16.icon-youtube {
-  background-image: url(../images/iconsweets/youtube-16.png);
+  background-image: url(../photo/images/iconsweets/youtube-16.png);
 }
 
 .icon-16.icon-youtube + span {
@@ -432,7 +432,7 @@ strong {
 .h-sep-1 {
   height: 1px;
   margin-bottom: 20px;
-  background: url(../images/nav-horizontal-line.png) repeat-x 0 bottom;
+  background: url(../photo/images/nav-horizontal-line.png) repeat-x 0 bottom;
   clear: both;
 }
 
@@ -492,7 +492,7 @@ strong {
   width: 123px;
   height: 123px;
   margin: -61px 0 0 -61px;
-  background: url(../images/media-icons.png) no-repeat 0 0;
+  background: url(../photo/images/media-icons.png) no-repeat 0 0;
   position: absolute;
   z-index: 10;
   left: 50%;
@@ -755,7 +755,7 @@ strong {
 
 .main-nav {
   position: relative;
-  background: url(../images/nav-bg.png) repeat;
+  background: url(../photo/images/nav-bg.png) repeat;
 }
 
 #menu-trigger {
@@ -896,7 +896,7 @@ body .main-nav li > a.main-nav-toggle {
 .shadow-left {
   width: 181px;
   height: 7px;
-  background: url(../images/shadow.png) no-repeat 0 0;
+  background: url(../photo/images/shadow.png) no-repeat 0 0;
   position: absolute;
   left: 0;
   bottom: -7px;
@@ -905,7 +905,7 @@ body .main-nav li > a.main-nav-toggle {
 .shadow-right {
   width: 183px;
   height: 7px;
-  background: url(../images/shadow.png) no-repeat 0 -7px;
+  background: url(../photo/images/shadow.png) no-repeat 0 -7px;
   position: absolute;
   right: 0;
   bottom: -7px;
@@ -913,7 +913,7 @@ body .main-nav li > a.main-nav-toggle {
 
 .shadow-right-side {
   width: 7px;
-  background: url(../images/shadow.png) repeat-y -183px 0;
+  background: url(../photo/images/shadow.png) repeat-y -183px 0;
   position: absolute;
   right: -7px;
   top: 14px;
@@ -927,7 +927,7 @@ body .main-nav li > a.main-nav-toggle {
 .shadow-right-side-top {
   width: 7px;
   height: 14px;
-  background: url(../images/shadow.png) no-repeat 0 -14px;
+  background: url(../photo/images/shadow.png) no-repeat 0 -14px;
   position: absolute;
   right: -7px;
   top: 0;
@@ -940,7 +940,7 @@ body .main-nav li > a.main-nav-toggle {
   top: 3px;
   bottom: 3px;
   z-index: 5;
-  background: url(../images/nav-vertical-line.png) repeat-y 0 0;
+  background: url(../photo/images/nav-vertical-line.png) repeat-y 0 0;
 }
 
 .line-right {
@@ -955,7 +955,7 @@ body .main-nav li > a.main-nav-toggle {
   right: 3px;
   top: 3px;
   z-index: 5;
-  background: url(../images/nav-horizontal-line.png) repeat-x 0 0;
+  background: url(../photo/images/nav-horizontal-line.png) repeat-x 0 0;
 }
 
 .line-bottom {
@@ -1001,14 +1001,14 @@ body .main-nav li > a.main-nav-toggle {
 
 .sidebar {
   padding-left: 20px;
-  background: url(../images/nav-vertical-line.png) repeat-y 0 0;
+  background: url(../photo/images/nav-vertical-line.png) repeat-y 0 0;
 }
 
 .sidebar .widget + .widget {
   clear: both;
   margin-top: 40px;
   padding-top: 40px;
-  background: url(../images/nav-horizontal-line.png) repeat-x 0 0;
+  background: url(../photo/images/nav-horizontal-line.png) repeat-x 0 0;
 }
 
 .widget-title {
@@ -1065,7 +1065,7 @@ body .main-nav li > a.main-nav-toggle {
   position: absolute;
   top: 0;
   z-index: 2;
-  background: url(../images/slider-shades.png) repeat-y -53px 0;
+  background: url(../photo/images/slider-shades.png) repeat-y -53px 0;
   cursor: pointer;
 }
 
@@ -1098,7 +1098,7 @@ body .main-nav li > a.main-nav-toggle {
   margin-bottom: 40px !important;
   padding: 20px 0 0 0;
   position: relative;
-  background: url(../images/nav-horizontal-line.png) repeat-x 0 0;
+  background: url(../photo/images/nav-horizontal-line.png) repeat-x 0 0;
 }
 
 .teaser-text p {
@@ -1115,7 +1115,7 @@ body .main-nav li > a.main-nav-toggle {
   position: absolute;
   left: 0;
   bottom: 0;
-  background: url(../images/nav-horizontal-line.png) repeat-x 0 0;
+  background: url(../photo/images/nav-horizontal-line.png) repeat-x 0 0;
 }
 
 
@@ -1156,7 +1156,7 @@ body .main-nav li > a.main-nav-toggle {
   left: 330px;
   top: 0;
   bottom: 20px;
-  background: url(../images/nav-vertical-line.png) repeat-y center 0;
+  background: url(../photo/images/nav-vertical-line.png) repeat-y center 0;
 }
 
 .footer-sep-2 {
@@ -1233,7 +1233,7 @@ body .main-nav li > a.main-nav-toggle {
   width: 108px;
   height: 96px;
   overflow: hidden;
-  background: url(../images/date-bg.png) no-repeat;
+  background: url(../photo/images/date-bg.png) no-repeat;
 }
 
 .entry-title,
@@ -1269,7 +1269,7 @@ body .main-nav li > a.main-nav-toggle {
   padding: 6px 0 0 0;
   font-size: 12px;
   line-height: 20px;
-  background: url(../images/nav-horizontal-line.png) repeat-x top;
+  background: url(../photo/images/nav-horizontal-line.png) repeat-x top;
 }
 
 .entry-meta > span {
@@ -1464,7 +1464,7 @@ body .main-nav li > a.main-nav-toggle {
     width: 18px;
     height: 18px;
     margin: 0 8px 0 0;
-    background: url(../images/menu.png) no-repeat 0 0;
+    background: url(../photo/images/menu.png) no-repeat 0 0;
     vertical-align: middle;
   }
   

@@ -142,7 +142,7 @@ blockquote {
   font-style: italic;
   font-size: 14px;
   line-height: 22px;
-  background: url(../images/nav-vertical-line.png) repeat-y 0 0;
+  background: url(../photo/images/nav-vertical-line.png) repeat-y 0 0;
 }
 
 .bq-meta {
@@ -174,14 +174,14 @@ blockquote {
   float: left;
   margin: 0 20px 20px 0;
   padding: 0 20px 0 0;
-  background: url(../images/nav-vertical-line.png) repeat-y right 0;
+  background: url(../photo/images/nav-vertical-line.png) repeat-y right 0;
 }
 
 .pullquote-right {
   float: right;
   margin: 0 0 20px 20px;
   padding: 0 0 0 20px;
-  background: url(../images/nav-vertical-line.png) repeat-y left 0;
+  background: url(../photo/images/nav-vertical-line.png) repeat-y left 0;
 }
 
 
@@ -251,28 +251,28 @@ ul.plus-list, ul.tick-list, ul.arrow-list, ul.delete-list {
 }
 
 ul.plus-list li {
-  background: url(../images/lists/plus_16.png) no-repeat 0 0;
+  background: url(../photo/images/lists/plus_16.png) no-repeat 0 0;
   list-style: none;
   padding-left: 26px;
   margin-bottom: 5px;
 }
     
 ul.tick-list li {
-  background: url(../images/lists/tick_16.png) no-repeat 0 0;
+  background: url(../photo/images/lists/tick_16.png) no-repeat 0 0;
   list-style: none;
   padding-left: 26px;
   margin-bottom: 5px;
 }
 
 ul.arrow-list li {
-  background: url(../images/lists/right_16.png) no-repeat 0 0;
+  background: url(../photo/images/lists/right_16.png) no-repeat 0 0;
   list-style: none;
   padding-left: 26px;
   margin-bottom: 5px;
 }
     
 ul.delete-list li {
-  background: url(../images/lists/delete_16.png) no-repeat 0 0;
+  background: url(../photo/images/lists/delete_16.png) no-repeat 0 0;
   list-style: none;
   padding-left: 26px;
   margin-bottom: 5px;
